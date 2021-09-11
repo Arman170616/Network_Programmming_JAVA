@@ -26,5 +26,6 @@ public class lab_05 extends Thread {
         }
     }
 
+    
 }
 
